@@ -11,5 +11,4 @@ public class LoginJFrame extends JFrame {
         this.setDefaultCloseOperation(3);//设置点击，关闭退出程序
         this.setVisible(true);//展示画面
     }
-
 }
